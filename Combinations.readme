@@ -1,0 +1,7 @@
+🔷 1. Light & Clean (Science & Research)
+✔ Background: bg-blue-50 (#EFF6FF - Light Blue)
+✔ Navbar/Footer: bg-blue-100 (#DBEAFE - Soft Blue)
+✔ Headings (h1, h2): text-blue-800 (#1E40AF - Deep Blue)
+✔ Paragraphs: text-gray-700 (#374151 - Dark Gray)
+✔ Buttons: bg-blue-600 hover:bg-blue-700 text-white
+✔ Borders: border-blue-300
